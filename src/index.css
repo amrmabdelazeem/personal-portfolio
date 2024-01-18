@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.frontend-skills img, .frontend-skills svg, .backend-skills img, .backend-skills svg, .others-skills svg{
+    cursor: pointer;
+}
