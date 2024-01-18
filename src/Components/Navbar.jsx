@@ -19,7 +19,7 @@ export default function NavBar() {
 
       <div
         id="desktopMenu"
-        className="my-4 hidden h-1/6 gap-10 text-sm md:flex lg:text-xl"
+        className="mt-10 hidden h-16 gap-10 text-sm md:flex lg:text-xl"
       >
         <a
           href="#Homepage"
