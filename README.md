@@ -40,14 +40,18 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository
 
-```git clone https://github.com/yourusername/personal-portfolio.git
+```
+git clone https://github.com/yourusername/personal-portfolio.git
 ```
 2. Navigate to the project directory
 
-```cd personal-portfolio
+```
+cd personal-portfolio
 ```
 3. Install the dependencies
-```npm install
+
+```
+npm install
 ```
 4. Start the development server with Vite
 
@@ -68,7 +72,7 @@ Contributions are what make the open-source community such an amazing place to l
 5. Open a Pull Reques
 
 ## Contact
-If you want to contact me directly, feel free to do so at [amr.abdelazeem22@gmail.com]
-Project Link: https://github.com/yourusername/personal-portfolio
+- If you want to contact me directly, feel free to do so at [amr.abdelazeem22@gmail.com]
+- Project Link: https://github.com/yourusername/personal-portfolio
 
 Enjoy!
