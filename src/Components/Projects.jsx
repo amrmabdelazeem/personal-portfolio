@@ -80,7 +80,7 @@ const Single = ({ item }) => {
 
   const y = useTransform(scrollYProgress, [0, 1], [-100, 100]);
   return (
-    <section className="flex h-dvh snap-center justify-center">
+    <section className="flex h-dvh snap-start justify-center">
       <div className="flex h-full w-full items-center justify-center overflow-hidden">
         <div className="wrapper flex h-full flex-col items-center justify-center gap-12 pt-32 md:w-4/5 md:flex-row md:pt-20">
           <div

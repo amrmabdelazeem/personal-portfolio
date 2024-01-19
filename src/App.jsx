@@ -8,18 +8,18 @@ import Skills from "./Components/Skills";
 function App() {
   return (
     <>
-      <section id="Homepage" className="h-dvh snap-center">
+      <section id="Homepage" className="h-dvh snap-start">
         <Navbar />
         <Hero />
       </section>
-      <section id="About" className="h-dvh snap-center">
+      <section id="About" className="h-dvh snap-start">
         <About />
       </section>
-      <section id="Skills" className="h-dvh snap-center">
+      <section id="Skills" className="h-dvh snap-start">
         <Skills />
       </section>
       <Projects />
-      <section id="Contact" className="h-dvh snap-center">
+      <section id="Contact" className="h-dvh snap-start">
         <Contact />
       </section>
     </>
