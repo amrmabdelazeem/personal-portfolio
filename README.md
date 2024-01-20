@@ -22,17 +22,20 @@ This is a personal portfolio built with ReactJS to showcase my skills and projec
 * Font Awesome icons
 * Motion Framer
 * Vite
+* EmailJS
+* Prettier
 
 ## Components
 
 The main React components are:
 
 * Navbar: The navigation bar component that appears on the top of each page.
+* Sidebar: The navigation bar that shows on smaller devices.
 * Hero: The hero section component that appears on the homepage.
-* About: The about section component that appears on the about page.
+* About: The about section component Which contains main information.
 * Skills: The skills section component that appears on the skills page.
-* Projects: The projects section component that appears on the projects page.
-* Contact: The contact section component that appears on the contact page.
+* Projects: The projects section component contains latest projects.
+* Contact: The contact section component which you can use to send a message directly to me through `emailJS`.
 
 ## Getting Started
 
@@ -59,7 +62,6 @@ npm install
 npm run dev
 ```
 5. Open the browser and navigate to http://localhost:${port} to view the portfolio.
-
 
 ## Contribution
 
