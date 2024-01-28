@@ -15,25 +15,22 @@ This is a personal portfolio built with ReactJS to showcase my skills and projec
 ## Tech Stack
 <table>
   <tr>
-    <td>ReactJS</td>
-    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/React-Dark.svg" alt="react icon" width="24" height="24"></td>
-  </tr>
-    <tr>
-    <td>JavaScript</td>
-    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" alt="react icon" width="24" height="24"></td>
-      
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/React-Dark.svg" alt="react icon" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" alt="JavaScript icon" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg" alt="html icon" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg" alt="css icon" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TailwindCSS-Dark.svg" alt="tailwind icon" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MaterialUI-Dark.svg" alt="materialui icon" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Vite-Light.svg" alt="vite icon" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Vercel-Light.svg" alt="vercel icon" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg" alt="emailjs icon" width="26" height="26"></td>
+    <td><img src="https://www.emailjs.com/logo.png" alt="react icon" width="26" height="26"></td>
+    <td><img src="https://pbs.twimg.com/profile_images/1491038861224517637/s-H1KgWO_400x400.png" alt="fontawesome icon" width="26" height="26"></td>
+    <td><img src="https://framerusercontent.com/images/48ha9ZR9oZQGQ6gZ8YUfElP3T0A.png" alt="motion framer icon" width="26" height="26"></td>
+    <td><img src="https://prettier.io/icon.png" alt="prettier icon" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VSCode-Light.svg" alt="vscode icon" width="26" height="26"></td>
   </tr>
 </table>
-* JavaScript
-* HTML5
-* CSS3
-* TailwindCSS
-* React MUI
-* Font Awesome icons
-* Motion Framer
-* Vite
-* EmailJS
-* Prettier
 
 ## Components
 
