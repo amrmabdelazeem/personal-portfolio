@@ -13,7 +13,17 @@ This is a personal portfolio built with ReactJS to showcase my skills and projec
 - Contact: Allows visitors to contact me through a contact form or by email.
 
 ## Tech Stack
-* ReactJS
+<table>
+  <tr>
+    <td>ReactJS</td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/React-Dark.svg" alt="react icon" width="24" height="24"></td>
+  </tr>
+    <tr>
+    <td>JavaScript</td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" alt="react icon" width="24" height="24"></td>
+      
+  </tr>
+</table>
 * JavaScript
 * HTML5
 * CSS3
