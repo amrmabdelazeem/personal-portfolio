@@ -15,20 +15,20 @@ This is a personal portfolio built with ReactJS to showcase my skills and projec
 ## Tech Stack
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/React-Dark.svg" alt="react icon" width="26" height="26"></td>
-    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" alt="JavaScript icon" width="26" height="26"></td>
-    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg" alt="html icon" width="26" height="26"></td>
-    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg" alt="css icon" width="26" height="26"></td>
-    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TailwindCSS-Dark.svg" alt="tailwind icon" width="26" height="26"></td>
-    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MaterialUI-Dark.svg" alt="materialui icon" width="26" height="26"></td>
-    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Vite-Light.svg" alt="vite icon" width="26" height="26"></td>
-    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Vercel-Light.svg" alt="vercel icon" width="26" height="26"></td>
-    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg" alt="emailjs icon" width="26" height="26"></td>
-    <td><img src="https://www.emailjs.com/logo.png" alt="react icon" width="26" height="26"></td>
-    <td><img src="https://pbs.twimg.com/profile_images/1491038861224517637/s-H1KgWO_400x400.png" alt="fontawesome icon" width="26" height="26"></td>
-    <td><img src="https://framerusercontent.com/images/48ha9ZR9oZQGQ6gZ8YUfElP3T0A.png" alt="motion framer icon" width="26" height="26"></td>
-    <td><img src="https://prettier.io/icon.png" alt="prettier icon" width="26" height="26"></td>
-    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VSCode-Light.svg" alt="vscode icon" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/React-Dark.svg" alt="react icon" title="ReactJS" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" alt="javascript icon" title="JavaScript" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg" alt="html5 icon" title="HTML5" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg" alt="css icon" title="CSS3" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TailwindCSS-Dark.svg" alt="tailwind icon" title="TailwindCSS" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MaterialUI-Dark.svg" alt="materialui icon"  title="MaterialUI" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Vite-Light.svg" alt="vite icon" title="Vite" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Vercel-Light.svg" alt="vercel icon" title="Vercel" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg" alt="git icon" title="Git" width="26" height="26"></td>
+    <td><img src="https://www.emailjs.com/logo.png" alt="emailjs icon" title="EmailJS" width="26" height="26"></td>
+    <td><img src="https://pbs.twimg.com/profile_images/1491038861224517637/s-H1KgWO_400x400.png" alt="fontawesome icon" title="FontAwesome" width="26" height="26"></td>
+    <td><img src="https://framerusercontent.com/images/48ha9ZR9oZQGQ6gZ8YUfElP3T0A.png" alt="motion framer icon" title="Motion Framer" width="26" height="26"></td>
+    <td><img src="https://prettier.io/icon.png" alt="prettier icon" title="Prettier" width="26" height="26"></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VSCode-Light.svg" alt="vscode icon" title="VSCode" width="26" height="26"></td>
   </tr>
 </table>
 
