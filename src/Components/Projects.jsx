@@ -89,6 +89,20 @@ const projects = [
       "DOM",
     ],
   },
+  {
+    id: 6,
+    title: "Social links profile",
+    image: "assets/social-media-links-preview.jpg",
+    description:
+      " Add all your social links into one place!",
+    link: "https://amrmabdelazeem.github.io/social-links-profile/",
+    skills: [
+      "HTML5",
+      "CSS3",
+      "Sass",
+      "Parcel"
+    ],
+  },
 ];
 
 const Single = ({ item }) => {
