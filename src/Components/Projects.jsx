@@ -56,6 +56,24 @@ const projects = [
   },
   {
     id: 4,
+    title: "Expenses Chart Component",
+    image: "assets/expenses-chart-preview.jpg",
+    description:
+      "An expense report showing bar charts of the provided JSON data.",
+    link: "https://amrmabdelazeem.github.io/expenses-chart-component/",
+    skills: [
+      "ReactJS",
+      "JSX",
+      "HTML5",
+      "CSS3",
+      "Sass",
+      "JavaScript",
+      "JSON",
+      "Vite"
+    ],
+  },
+  {
+    id: 5,
     title: "Social Media Dashboard",
     image: "assets/dashborad-desktop-preview.jpg",
     description:
