@@ -19,34 +19,34 @@ export default function NavBar() {
 
       <div
         id="desktopMenu"
-        className="mt-10 hidden h-16 gap-10 text-sm md:flex lg:text-xl"
+        className="mt-11 hidden h-16 gap-10 text-sm md:flex lg:text-xl"
       >
         <a
           href="#Homepage"
-          className="pb-5 hover:border-b-2 hover:border-yellow-400 hover:text-yellow-400"
+          className="pb-5 hover:border-b-4 hover:border-yellow-400 hover:text-yellow-400"
         >
           Homepage
         </a>
         <a
-          className=" pb-5 hover:border-b-2 hover:border-yellow-400 hover:text-yellow-400"
+          className=" pb-5 hover:border-b-4 hover:border-yellow-400 hover:text-yellow-400"
           href="#About"
         >
           About
         </a>
         <a
-          className="pb-5 hover:border-b-2 hover:border-yellow-400 hover:text-yellow-400"
+          className="pb-5 hover:border-b-4 hover:border-yellow-400 hover:text-yellow-400"
           href="#Skills"
         >
           Skills
         </a>
         <a
-          className=" pb-5 hover:border-b-2 hover:border-yellow-400 hover:text-yellow-400"
+          className=" pb-5 hover:border-b-4 hover:border-yellow-400 hover:text-yellow-400"
           href="#Projects"
         >
           Projects
         </a>
         <a
-          className=" pb-5 hover:border-b-2 hover:border-yellow-400 hover:text-yellow-400"
+          className=" pb-5 hover:border-b-4 hover:border-yellow-400 hover:text-yellow-400"
           href="#Contact"
         >
           Contact
