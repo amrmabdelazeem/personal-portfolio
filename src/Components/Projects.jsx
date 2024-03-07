@@ -5,6 +5,21 @@ import { useRef } from "react";
 const projects = [
   {
     id: 1,
+    title: "Todo App Lists",
+    image: "/assets/todo-app-preview.jpg",
+    description:
+      "Create Todo Lists for different times as daily, monthly or yearly, store them into database and perform CRUD operations.",
+    link: "https://github.com/amrmabdelazeem/Permalist-Project",
+    skills: [
+      "NodeJS",
+      "ExpressJS",
+      "EJS",
+      "JavaScript",
+      "PostgreSQL",
+    ],
+  },
+  {
+    id: 2,
     title: "E-Commerce Product Page",
     image: "/assets/e-commerce-desktop-preview.jpg",
     description:
@@ -21,7 +36,7 @@ const projects = [
     ],
   },
   {
-    id: 2,
+    id: 3,
     title: "Rick and Morty",
     image: "/assets/rick-morty.png?lazy=load",
     description:
@@ -39,7 +54,7 @@ const projects = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     title: "Blogr Landing Page",
     image: "/assets/blogr-desktop-preview.jpg",
     description:
@@ -55,7 +70,7 @@ const projects = [
     ],
   },
   {
-    id: 4,
+    id: 5,
     title: "Expenses Chart Component",
     image: "assets/expenses-chart-preview.jpg",
     description:
@@ -70,23 +85,6 @@ const projects = [
       "JavaScript",
       "JSON",
       "Vite"
-    ],
-  },
-  {
-    id: 5,
-    title: "Social Media Dashboard",
-    image: "assets/dashborad-desktop-preview.jpg",
-    description:
-      "A dynamic web page offering real-time social media analytics. With an innovative theme switcher, users can effortlessly alternate between light and dark themes, tailoring their visual experience for optimal usability and style.",
-    link: "https://amrmabdelazeem.github.io/social-media-dashboard/",
-    skills: [
-      "ReactJS",
-      "JSX",
-      "HTML5",
-      "CSS3",
-      "JavaScript",
-      "Theme-Switcher",
-      "DOM",
     ],
   },
   {
