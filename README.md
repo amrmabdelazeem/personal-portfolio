@@ -39,6 +39,7 @@ The main React components are:
 * Navbar: The navigation bar component that appears on the top of each page.
 * Sidebar: The navigation bar that shows on smaller devices.
 * Hero: The hero section component that appears on the homepage.
+* TitleChanger: A component that changes all the time showing job titles.
 * About: The about section component Which contains main information.
 * Skills: The skills section component that appears on the skills page.
 * Projects: The projects section component contains latest projects.
