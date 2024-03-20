@@ -1,13 +1,14 @@
 import { useState, useEffect } from "react";
 
 export default function TitleChanger(){
-    const titles = ["ReactJS Frontend Web Developer", "Full-Stack Web Developer", "Frontend Web Developer"];
     const [currentTitleIndex, setCurrentTitleIndex] = useState(0);
     const [currentTitle, setCurrentTitle] = useState('');
     const [direction, setDirection] = useState(1); // 1 for adding letters, -1 for removing letters
     const [currentIndex, setCurrentIndex] = useState(0);
   
     useEffect(() => {
+      const titles = ["ReactJS Web Developer", "Full-Stack Web Developer", "Frontend Web Developer"];
+
       const interval = setInterval(() => {
         // If adding letters
         if (direction === 1) {
@@ -37,7 +38,7 @@ export default function TitleChanger(){
       }, 200); // Adjust the interval for the speed of letter addition/removal
   
       return () => clearInterval(interval);
-    }, [currentIndex, currentTitleIndex, direction, titles]);
+    }, [currentIndex, currentTitleIndex, direction]);
   
     return currentTitle;
   }
