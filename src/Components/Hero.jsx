@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { useState } from "react";
+import TitleChanger from "./TitleChanger";
 
 const textVariants = {
   initial: {
@@ -52,7 +53,7 @@ export default function Hero() {
     <div className="hero relative h-[calc(100dvh-5.6rem)]  w-screen overflow-hidden bg-gradient-to-t from-gray-900 to-gray-700 px-5 md:h-[calc(100dvh-7rem)] md:px-12">
       <div className="wrapper flex h-full w-full max-w-4xl justify-center pt-5 sm:pt-10 xl:items-center">
         <motion.div
-          className="textContainer flex flex-col gap-4"
+          className="textContainer flex flex-col gap-4 w-11/12"
           variants={textVariants}
           initial="initial"
           animate="animate"
@@ -65,9 +66,9 @@ export default function Hero() {
           </motion.span>
           <motion.h1
             variants={textVariants}
-            className="mb-5 w-2/3 text-2xl font-bold leading-snug tracking-wide text-orange-200 sm:w-2/4 md:w-2/3 md:text-5xl"
+            className="mb-5 w-full h-12 whitespace-nowrap text-2xl font-bold leading-snug tracking-wide text-orange-200 sm:w-2/4 md:w-2/3 md:text-5xl"
           >
-            ReactJS Frontend Web Developer
+            <TitleChanger/>
           </motion.h1>
           <motion.div
             variants={textVariants}
