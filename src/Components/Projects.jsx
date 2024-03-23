@@ -5,21 +5,32 @@ import { useRef } from "react";
 const projects = [
   {
     id: 1,
-    title: "Todo App Lists",
-    image: "/assets/todo-app-preview.jpg",
+    title: "Personal Books Management System",
+    image: "/assets/book-collection-preview.png",
     description:
-      "Create Todo Lists for different times as daily, monthly or yearly, store them into database and perform CRUD operations.",
-    link: "https://github.com/amrmabdelazeem/Permalist-Project",
+      "This project is a web application that allows users to manage their personal books collection. It was built usingThis project is a web application that allows users to keep up with their own personal books, reviews and notes.",
+    link: "https://github.com/amrmabdelazeem/book-notes",
     skills: [
       "NodeJS",
       "ExpressJS",
       "EJS",
       "JavaScript",
       "PostgreSQL",
+      "Axios",
+      "Sass",
     ],
   },
   {
     id: 2,
+    title: "Todo App Lists",
+    image: "/assets/todo-app-preview.jpg",
+    description:
+      "Create Todo Lists for different times as daily, monthly or yearly, store them into database and perform CRUD operations.",
+    link: "https://github.com/amrmabdelazeem/Permalist-Project",
+    skills: ["NodeJS", "ExpressJS", "EJS", "JavaScript", "PostgreSQL"],
+  },
+  {
+    id: 3,
     title: "E-Commerce Product Page",
     image: "/assets/e-commerce-desktop-preview.jpg",
     description:
@@ -36,7 +47,7 @@ const projects = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     title: "Rick and Morty",
     image: "/assets/rick-morty.png?lazy=load",
     description:
@@ -54,7 +65,7 @@ const projects = [
     ],
   },
   {
-    id: 4,
+    id: 5,
     title: "Blogr Landing Page",
     image: "/assets/blogr-desktop-preview.jpg",
     description:
@@ -70,7 +81,7 @@ const projects = [
     ],
   },
   {
-    id: 5,
+    id: 6,
     title: "Expenses Chart Component",
     image: "assets/expenses-chart-preview.jpg",
     description:
@@ -84,22 +95,16 @@ const projects = [
       "Sass",
       "JavaScript",
       "JSON",
-      "Vite"
+      "Vite",
     ],
   },
   {
-    id: 6,
+    id: 7,
     title: "Social links profile",
     image: "assets/social-media-links-preview.jpg",
-    description:
-      " Add all your social links into one place!",
+    description: " Add all your social links into one place!",
     link: "https://amrmabdelazeem.github.io/social-links-profile/",
-    skills: [
-      "HTML5",
-      "CSS3",
-      "Sass",
-      "Parcel"
-    ],
+    skills: ["HTML5", "CSS3", "Sass", "Parcel"],
   },
 ];
 
