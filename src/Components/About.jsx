@@ -8,7 +8,7 @@ const variants = {
   animate: {
     opacity: 1,
     transition: {
-      duration: .5,
+      duration: 0.5,
       delayChildren: 0.3,
       type: "spring",
       stiffness: 40,
@@ -23,24 +23,24 @@ const textVariants = {
   animate: {
     opacity: 1,
     transition: {
-      staggerChildren:0.03,
+      staggerChildren: 0.03,
       stiffness: 50,
     },
   },
 };
 
 const letterVariants = {
-  initial:{
-    opacity:0,
-    y:20,
+  initial: {
+    opacity: 0,
+    y: 20,
   },
   animate: {
-    opacity:1,
-    y:0
-  }
-}
+    opacity: 1,
+    y: 0,
+  },
+};
 const text =
-  "I'm a BCS graduate of Computer Science and Information Technology, with +3 years of experience in Software Enginering. With professional expreince in HTML, CSS, Javascript with several frameworks including ReactJS and with NodeJS, ExpressJS, MongoDB and PostgreSQL in backend, I'm dedicated to achieving the best solutions. I am a detail-oriented, hard-working, and determined individual keen to excel and seeking to expand and develop my skills through education and professional experience.";
+  "I'm a BCS graduate of Computer Science and Information Technology, with +3 years of experience in Software Enginering. Proficient in a wide array of technologies, including HTML, CSS, and JavaScript, with expertise in frameworks such as ReactJS. With demonstrated proficiency in backend development using NodeJS, ExpressJS, MongoDB, and PostgreSQL, enabling the creation of robust and scalable web applications. I am dedicated to delivering optimal solutions to complex problems as I thrive in dynamic environments where innovation and collaboration are valued. Driven by a passion for continuous learning and improvement, I am committed to expanding my skill set through both formal education and practical experience. Aspiring to contribute to cutting-edge projects and teams.";
 export const About = () => {
   return (
     <div className="relative flex h-dvh w-full items-center justify-center gap-5 overflow-hidden bg-gradient-to-b from-blue-400 to-green-400">
@@ -67,11 +67,16 @@ export const About = () => {
             initial="initial"
             whileInView="animate"
           >
-          {text.split("").map((letter, index)=> {
-            return (
-              <motion.span key={letter+"_"+index} variants={letterVariants}>{letter}</motion.span>
-            )
-          })}
+            {text.split("").map((letter, index) => {
+              return (
+                <motion.span
+                  key={letter + "_" + index}
+                  variants={letterVariants}
+                >
+                  {letter}
+                </motion.span>
+              );
+            })}
           </motion.p>
         </div>
       </div>
