@@ -40,7 +40,7 @@ const letterVariants = {
   }
 }
 const text =
-  "I'm a BCS graduate of Computer Science and Information Technology, with +3 years of experience in Web Development. Alongside of having a professional experience in the frontend development with several frameworks and libraries including ReactJS, I've also dedicated efforts to enhance my backend skills, evolving into a Full-Stack Web Developer. I am a detail-oriented, hard-working, and determined individual keen to excel and seeking to expand and develop my skills through education and professional experience.";
+  "I'm a BCS graduate of Computer Science and Information Technology, with +3 years of experience in Software Enginering. Putting in use HTML, CSS, Javascript with several frameworks including ReactJS and with NodeJS, ExpressJS, MongoDB and PostgreSQL in backend. I am a detail-oriented, hard-working, and determined individual keen to excel and seeking to expand and develop my skills through education and professional experience.";
 export const About = () => {
   return (
     <div className="relative flex h-dvh w-full items-center justify-center gap-5 overflow-hidden bg-gradient-to-b from-blue-400 to-green-400">
