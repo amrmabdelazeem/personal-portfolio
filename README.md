@@ -25,7 +25,6 @@ This is a personal portfolio built with ReactJS to showcase my skills and projec
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Vercel-Light.svg" alt="vercel icon" title="Vercel" width="26" height="26"></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg" alt="git icon" title="Git" width="26" height="26"></td>
     <td><img src="https://www.emailjs.com/logo.png" alt="emailjs icon" title="EmailJS" width="26" height="26"></td>
-    <td><img src="https://pbs.twimg.com/profile_images/1491038861224517637/s-H1KgWO_400x400.png" alt="fontawesome icon" title="FontAwesome" width="26" height="26"></td>
     <td><img src="https://framerusercontent.com/images/48ha9ZR9oZQGQ6gZ8YUfElP3T0A.png" alt="motion framer icon" title="Motion Framer" width="26" height="26"></td>
     <td><img src="https://prettier.io/icon.png" alt="prettier icon" title="Prettier" width="26" height="26"></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VSCode-Light.svg" alt="vscode icon" title="VSCode" width="26" height="26"></td>
