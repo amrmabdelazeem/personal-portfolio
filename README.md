@@ -17,7 +17,6 @@ This is a personal portfolio built with ReactJS to showcase my skills and projec
   <tr>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/React-Dark.svg" alt="react icon" title="ReactJS" width="26" height="26"></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" alt="javascript icon" title="JavaScript" width="26" height="26"></td>
-        <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" alt="javascript icon" title="JavaScript" width="26" height="26"></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg" alt="html5 icon" title="HTML5" width="26" height="26"></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg" alt="css icon" title="CSS3" width="26" height="26"></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TailwindCSS-Dark.svg" alt="tailwind icon" title="TailwindCSS" width="26" height="26"></td>
